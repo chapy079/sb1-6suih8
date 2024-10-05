@@ -1,0 +1,11 @@
+{
+     "name": "social-media-scheduler",
+     "version": "1.0.0",
+     "description": "A social media scheduling app",
+     "scripts": {
+       "create-zip": "node create-zip.js"
+     },
+     "dependencies": {
+       "archiver": "^5.3.1"
+     }
+   }
